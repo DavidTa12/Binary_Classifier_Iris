@@ -1,4 +1,4 @@
-# Binary_Classifier_Iris
+# Binary Classifier Iris
 
 Machine Learning using Scikit-learn binary classifier and Iris dataset.
 
